@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here you’ll find a list of my bootcamp repositories and personal projects.
+This page contains a collection of my bootcamp repositories and individual projects. I am currently performing a number of revisions and refining some of my repositories, with the objective of making them even better.
